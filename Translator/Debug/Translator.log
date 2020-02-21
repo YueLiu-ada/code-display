@@ -1,0 +1,3 @@
+﻿  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+StringUtilities.lib(StringUtilities.obj) : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Translator.vcxproj -> E:\687\Project#4\mutiClient\pj2YuxinHu1\Debug\Translator.dll
